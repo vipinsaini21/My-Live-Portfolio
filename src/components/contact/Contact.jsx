@@ -46,7 +46,7 @@ const Contact = () => {
 							<span className='contact__card-data'>8383967234</span>
 
 							<a
-								href='https://wa.me/918383967234'
+								href='https://wa.me/919870197076'
 								className='contact__button'
 								target='__blank'
 							>
