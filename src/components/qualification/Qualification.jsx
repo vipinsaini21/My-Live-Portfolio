@@ -140,17 +140,16 @@ const Qualification = () => {
             </div>
 
             <div className="qualification__data">
-              <div></div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
               <div>
                 <h3 className="qualification__title">Web Dev Intern</h3>
                 <span className="qualification__subtitle">UpSkillz</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 07/2022 - 09/2022
                 </div>
+              </div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
               </div>
             </div>
           </div>
