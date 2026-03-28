@@ -56,7 +56,7 @@ const Qualification = () => {
                   Netaji Subhas University Of Technology
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 12/2020 - 05/2024
+                  <i className="uil uil-calendar-alt"></i> 12/2020 - 10/2024
                 </div>
               </div>
               <div>
@@ -110,7 +110,7 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Test Engineer</h3>
+                <h3 className="qualification__title">Assosiate Analyst</h3>
                 <span className="qualification__subtitle">Wipro</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 04/2025 - Present
